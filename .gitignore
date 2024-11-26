@@ -1,0 +1,13 @@
+# Folders
+.vscode/
+.vs/
+bin/
+
+# macOS Files
+.DS_Store
+
+# Visual Studio Files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters

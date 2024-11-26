@@ -1,0 +1,2 @@
+- the program crashes if any of the callback pointer aren't defined
+	(the usual callback checking is not working for some reason(on vs2022 atleast))
